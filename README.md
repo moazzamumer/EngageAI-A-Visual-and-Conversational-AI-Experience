@@ -155,6 +155,13 @@ This will:
 
 ---
 
+## Frontend Images
+![Detection-1](https://drive.google.com/file/d/1K675zPGXDF5_cs2MtmdZCSHcWPyCy6-j/view?usp=sharing)
+![Detection-2](https://drive.google.com/file/d/1JlB8x_mBVgH7hzh9CVE9IlAxXHWIYvQM/view?usp=sharing)
+![QR](https://drive.google.com/file/d/1Z0oDE0KrxCv7rlmYJdXWXizJAWpIDU2o/view?usp=sharing)
+
+---
+
 ## **Future Work**
 1. Enhance person and gesture recognition accuracy with larger datasets.
 2. Add multilingual support for conversational AI.
